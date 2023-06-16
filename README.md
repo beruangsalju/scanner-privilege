@@ -19,3 +19,6 @@ enthusiast OS in webshell
 
  # ( 3 ) <a href="https://www.mediafire.com/file/70nqxcesg069ocm/linenum.sh/file">Linux Enumeration</a>
 <img src="https://i.imgur.com/WTyLv2q.png" alt="beruangsalju profile">
+
+  # ( 4 ) <a href="https://www.mediafire.com/file/a5oiqos336ad825/linpeas.sh/file">Linux Privilege Escalation Awesome Script</a>
+<img src="https://i.imgur.com/edPhQrH.png" alt="beruangsalju profile">

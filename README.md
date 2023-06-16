@@ -1,6 +1,6 @@
 <div align="center">
-	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=00FF00&center=true&vCenter=true&width=440&lines=+Scanner+Privilege" /></h1>
-<div align="center"> 
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?duration=03&font=Lalezar&size=30&color=00FF00&center=true&vCenter=true&width=440&lines=+Scanner+Privilege+" /></h1>
+  <br />
  
 <p align="center">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/beruangsalju/scanner-privilege?color=black&style=flat">

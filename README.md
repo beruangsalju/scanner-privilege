@@ -1,5 +1,5 @@
 <div align="center">
-	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?duration=03&font=Lalezar&size=30&color=00FF00&center=true&vCenter=true&width=440&lines=+Scanner+Privilege+" /></h1>
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?duration=03&font=Lalezar&size=30&color=DC143C&center=true&vCenter=true&width=440&lines=+Scanner+Privilege+" /></h1>
   <br />
  
 <p align="center">

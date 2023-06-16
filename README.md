@@ -13,3 +13,6 @@ enthusiast OS in webshell
 
  # ( 1 ) <a href="https://www.mediafire.com/file/u7dafo2ordfduxb/les.sh/file">Linux Exploit Suggester</a>
 <img src="https://i.imgur.com/ZfdhTzS.png" alt="beruangsalju profile">
+
+# ( 2 ) <a href="https://www.mediafire.com/file/malu15x4xhaioh4/les2.pl/file">Linux Exploit Suggester 2</a>
+<img src="https://i.imgur.com/KheMTTR.png" alt="beruangsalju profile">

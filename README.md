@@ -29,3 +29,21 @@ enthusiast OS in webshell
 
 # ( 5 ) <a href="https://www.mediafire.com/file/frt5v4ak6lk6a1s/traitor/file">traitor</a>
 <img src="https://i.imgur.com/KRedKhP.png" alt="beruangsalju profile">
+
+# ( 6 ) <a href="https://www.mediafire.com/file/v9kn8quk6ts39hc/enum4linux.pl/file">enum4linux</a>
+<img src="https://i.imgur.com/UGKpeCG.png" alt="beruangsalju profile">
+
+# ( 7 ) <a href="https://www.mediafire.com/file/g2qq92yldkcbkdf/lse.sh/file">Linux Smart Enumeration</a>
+<img src="https://i.imgur.com/j3rmqnv.png" alt="beruangsalju profile">
+
+# ( 8 ) <a href="https://www.mediafire.com/file/s2t4zdlwnfgjwvd/linprivchecker.py/file">Linprivchecker</a>
+<img src="https://i.imgur.com/EHQKUpT.png" alt="beruangsalju profile">
+
+# ( 9 ) <a href="https://www.mediafire.com/file/6d8o5tvlnlnn031/unix-privesc-check/file">unix-privesc-check</a>
+<img src="https://i.imgur.com/jdKcP8I.png" alt="beruangsalju profile">
+
+# ( 10 ) <a href="https://www.mediafire.com/file/0qwtz1oh83abc42/jalesc.sh/file">jalesc</a>
+<img src="https://i.imgur.com/n5xzFPg.png" alt="beruangsalju profile">
+
+# ( 11 ) <a href="https://www.mediafire.com/file/a6gz2o7kj4yovd2/pspy.zip/file">pspy 32/64</a>
+<img src="https://i.imgur.com/4rCUG2U.png" alt="beruangsalju profile">
